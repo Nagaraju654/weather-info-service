@@ -9,7 +9,7 @@ This Node.js application fetches and displays weather information for a given ci
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/weather-info-service.git
+   git clone https://github.com/https://github.com/Nagaraju654/weather-info-service.git
    cd weather-details
 
 ### Install dependencies:
